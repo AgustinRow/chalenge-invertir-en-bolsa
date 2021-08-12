@@ -1,0 +1,30 @@
+{
+  "name": "chalenge-invertir-en-bolsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinRow/chalenge-invertir-en-bolsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinRow/chalenge-invertir-en-bolsa/issues"
+  },
+  "homepage": "https://github.com/AgustinRow/chalenge-invertir-en-bolsa#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
